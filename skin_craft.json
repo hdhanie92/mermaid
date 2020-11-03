@@ -20,9 +20,21 @@
   [
     {
       "id":1,
-      "judul":"Mods Mermaid",
-      "image":"https://lh3.googleusercontent.com/E2qEGvL-l3BCAwwgjWy1SwJlvcFXElOLF9qND9mgnR3FHk8mzF5dEsl6dc0b2M7izgI=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.lorenco.mods.addon.mermaid.maps"
+      "judul":"Mods free Fire For MCPE",
+      "image":"https://play-lh.googleusercontent.com/-_K9UpxdI5hRr_3qmS4VIrvXZnY6KzXF2s2wBTmBDGk48uA63omSeRJS5E_n0i1kyd9R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.arbanatappz.modMCPE"
+    },
+    {
+      "id":2,
+      "judul":"Mastercraft - Multicraft World craft buliding 2020",
+      "image":"https://play-lh.googleusercontent.com/Wsq-onw2No_hJqWWZXDgTKerBIlf7VkS2eEcV-fQ4C61gBptn4Cd2ZVjeaD7lGLOVJSR=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.towncraft.microlite.buildingword"
+    },
+    {
+      "id":3,
+      "judul":"Crowd Run City live 2020",
+      "image":"https://play-lh.googleusercontent.com/NCX-TZhVe98gTNxtyys-qTvWqwWuRdh4FjccA9o5aW0AVj4qJTgKlvoyQdiRWgSCCw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.slentex.runtolive"
     }
   ],
   "Skin":
