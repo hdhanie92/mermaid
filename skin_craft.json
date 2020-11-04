@@ -41,79 +41,205 @@
   [
     {
       "id":1,
-      "nama_skin":"Batman",
-      "skin_url":"https://aliendro.id/wp-content/skin/batman.png",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+      "nama_skin":"Ariel (The Little Mermaid)",
+      "skin_url":"http://novask.in/3360483072.png",
+      "view_skin":"https://lh3.googleusercontent.com/iLcE1WXC3sw4q_oWtGQ070jsTO4uqVQRqP08cMAIY9WhnSUY607hJ4S9so5TbD-f23fpZ8nMjuMh8-7PvqU5ag"
     },
     {
       "id":2,
-      "nama_skin":"Captain Marvel",
-      "skin_url":"https://aliendro.id/wp-content/skin/cmarvel.png",
-      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+      "nama_skin":"Mermaid - best",
+      "skin_url":"http://novask.in/4799080243396608.png",
+      "view_skin":"https://lh3.googleusercontent.com/4ytaXpjW5fXt8CGhSjdlO6OIJGccV3Hpn0B_XQb0Z85W1hliRghu-6u8rLpeXkIsXke63HU2NWrPex0af7_V"
     },
     {
       "id":3,
-      "nama_skin":"Ironman",
-      "skin_url":"https://aliendro.id/wp-content/skin/iron.png",
-      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+      "nama_skin":"Mermaid skin",
+      "skin_url":"http://novask.in/1618953264.png",
+      "view_skin":"https://lh3.googleusercontent.com/DyeyJMIB54Rld3SmFsNy3ZBg45vBsR4CDm3y1j3gLDhqErvmUyXNQR9T3vk0Bzh3nLazbesrs1pWwVt2Xg2oJlw"
     },
 
     {
       "id":4,
-      "nama_skin":"Spiderman",
-      "skin_url":"https://aliendro.id/wp-content/skin/spider.png",
-      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+      "nama_skin":"Mermaid girl - best beautiful",
+      "skin_url":"http://novask.in/5286125994770432.png",
+      "view_skin":"https://lh3.googleusercontent.com/DT8EnF3aUeBQpUTJXe3ZC56XAepR-B08VHQow6uwCUqqbKxUXBZm8Kkgtq1pIbuSbpXni3_PL4W6bQa_0Px5cg"
     },
     {
       "id":5,
-      "nama_skin":"Deadpool",
-      "skin_url":"https://aliendro.id/wp-content/skin/dead.png",
-      "view_skin":"https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+      "nama_skin":"Mermaid Princess",
+      "skin_url":"http://novask.in/1377323080.png",
+      "view_skin":"https://lh3.googleusercontent.com/TR3nO4cbhY7qwi-Ygw2gN3TyYBfrODYVf9ZAYyb7PKnndyvMn3Rm6WsopQGp6MjjpRt447dmSpyzoocG3i19zw"
     },
     {
       "id":6,
-      "nama_skin":"Captain Amerika",
-      "skin_url":"https://aliendro.id/wp-content/skin/cap.png",
-      "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+      "nama_skin":"Mermaid Girl",
+      "skin_url":"http://novask.in/1543943066.png",
+      "view_skin":"https://lh3.googleusercontent.com/Nyo1D5rUgyCGtlD1FLEFV3bM3lTsSmqZrgJHgI8VzWnb5Gib1BN4ySzezVjBpOHFItm1_E8VI5aCQBhTn0JNjVQ"
     },
-
-
     {
       "id":7,
-      "nama_skin":"Wallverine",
-      "skin_url":"https://aliendro.id/wp-content/skin/xman.png",
-      "view_skin":"https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+      "nama_skin":"Mermaid Girl Edit",
+      "skin_url":"http://novask.in/1678513085.png",
+      "view_skin":"https://lh3.googleusercontent.com/2Oh54E-I8K4By6O6rQEBD8suY3I22N74I_BS_tEvqlx2TuNzmn2HVp3te_dtCKRBiv78Wzxs-0y9U0tsDaHeRg"
     },
     {
       "id":8,
-      "nama_skin":"The Hulk",
-      "skin_url":"https://aliendro.id/wp-content/skin/hulk.png",
-      "view_skin":"https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
+      "nama_skin":"Cute Mermaid HD",
+      "skin_url":"http://novask.in/3669063267.png",
+      "view_skin":"https://lh3.googleusercontent.com/AG3mhErzngfCxzo1O_XGLJ_eMMQrGRj5IIZLzH50jy4n-lY1VfZsBDfrgLk4gwTY5naWHYVgaY-Jegi_ah0h"
     },
     {
       "id":9,
-      "nama_skin":"Thor",
-      "skin_url":"https://aliendro.id/wp-content/skin/thor.png",
-      "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+      "nama_skin":"Ariel The little mermaid",
+      "skin_url":"http://novask.in/2816823040.png",
+      "view_skin":"https://lh3.googleusercontent.com/QyZ3NlADFm_LLtlWf1yyfnhL09WXvF9ICOHWI7rv0O3jUanPpr2D09nOYOu6Ow5NICjif5QfFU3auGrJRWCQrfk"
     },
 
     {
       "id":10,
-      "nama_skin":"Superman",
-      "skin_url":"https://aliendro.id/wp-content/skin/super.png",
-      "view_skin":"https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+      "nama_skin":"Strawberry's Mermaid-ish Skin",
+      "skin_url":"http://novask.in/4050363105.png",
+      "view_skin":"https://lh3.googleusercontent.com/xQEaa3MPY29ZlLhqrlGJ51DSRVPWYfRI2qLM8aeagD2gtJ0Dexb45gJIOrbNDwktAWAUvPQgRm6CiCT6aIFV"
     },
     {
       "id":11,
-      "nama_skin":"One Pouch Man",
-      "skin_url":"https://aliendro.id/wp-content/skin/one.png",
-      "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+      "nama_skin":"Mermaid",
+      "skin_url":"http://novask.in/3418973033.png",
+      "view_skin":"https://lh3.googleusercontent.com/6KaVqTYDaVVWS8eAno9B0z7GVwXp_T5Mych-xUBXXGQzO6iL43oPVQAISJpwYLOpD3kd--FFOUNW0dytTSzr"
     },
     {
       "id":12,
-      "nama_skin":"Son Goku",
-      "skin_url":"https://aliendro.id/wp-content/skin/goku.png",
-      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+      "nama_skin":"mermaid",
+      "skin_url":"http://novask.in/5099663568928768.png",
+      "view_skin":"https://lh3.googleusercontent.com/E8g3RvegdxkaHD2xT37f3ehzk_6JSmm_4uqFc4SOwneWI5rIArFF6XsFYcrU0oF9KVZheEpfrwhPi1VzWz8"
+    },
+{
+      "id":13,
+      "nama_skin":"little kelly mermaid",
+      "skin_url":"http://novask.in/1871053175.png",
+      "view_skin":"https://lh3.googleusercontent.com/DY6t13h-wXn3rjqGFgUWvMdoOJWr93eHTfriaX3mX_k6GRPeT9a7TwPL3yX-ZM2Ea2rzfO8tqQSxnnyAIgO7ag"
+    },
+
+    {
+      "id":14,
+      "nama_skin":"Pink Mermaid Girl",
+      "skin_url":"http://novask.in/1118753462.png",
+      "view_skin":"https://lh3.googleusercontent.com/LQemCw8QRc2t890mU-OPAMNQJnIDF6bWhySzSQZXOseylu1iTNsptggn_rbjfzZP-VNo2LsplwQKUxqqgBw1xg"
+    },
+    {
+      "id":15,
+      "nama_skin":"Mermaid",
+      "skin_url":"http://novask.in/3666273259.png",
+      "view_skin":"https://lh3.googleusercontent.com/xAiVTcMaDWhl2ohLvyOUxJwp7olOOvI9csD9RjsmGSb2Er3VxyUyU78UGdmCL2Do1SzE8sGDgwh1tmgHNTwMgPg"
+    },
+    {
+      "id":16,
+      "nama_skin":"little kelly mermaid",
+      "skin_url":"http://novask.in/6373717257224192.png",
+      "view_skin":"https://lh3.googleusercontent.com/7xfJdezqqt5JwPXroOtaEgzIS790WfLv3UVk_6-u8sa9qwvpJbx_8DBlncTOzyh2Ok5_bkHMxOBcmEOg82lIhzw"
+    },
+
+
+    {
+      "id":17,
+      "nama_skin":"Maya's Mermaid Skin",
+      "skin_url":"http://novask.in/1845093210.png",
+      "view_skin":"https://lh3.googleusercontent.com/K53r8PN4W-VbbUBhuMRwnVhRmU59ZwLHlBHlw1FBnXsNTRbj9DE6jb8gv48VGbNJKjj6ai6ve2LGKLPdeGawrg"
+    },
+    {
+      "id":18,
+      "nama_skin":"mermaid tail",
+      "skin_url":"http://novask.in/5060702091870208.png",
+      "view_skin":"https://lh3.googleusercontent.com/ktGCvYgDuUXVVw6kgfgYvulT7iNZ0-1XM2sbw8Gd_46WPXIhCjxIbdejRbHghkpoBdwJi-bIqm4eqW3llI8_"
+    },
+    {
+      "id":19,
+      "nama_skin":"Mermaid",
+      "skin_url":"http://novask.in/4236763107.png",
+      "view_skin":"https://lh3.googleusercontent.com/kNGID4U0IGYtrXikVmuS-HE7MaGijtolamKrjxp-DBRCtuR2GEcAaP4nN9it9BEZ15-d5ZtrqmNY-Y7DJ-eCpA"
+    },
+
+    {
+      "id":20,
+      "nama_skin":"swimming Princess mermaid Laura",
+      "skin_url":"http://novask.in/3571343043.png",
+      "view_skin":"https://lh3.googleusercontent.com/bfTVisz2cWAn_coloqfGwMTUW5lDzS6n7D2CIf_cSHmHu0FHDCJTSlPCWb58K4rWAcoX2mJJNs90I6J0mvTe"
+    },
+    {
+      "id":21,
+      "nama_skin":"mermaid with no strek",
+      "skin_url":"http://novask.in/4177793082.png",
+      "view_skin":"https://lh3.googleusercontent.com/hJ4SYagWNIktb0RhdxErHGpW_MX1d-AdI-0bLVAxvN5dstSepRttNq4EsRVICPi09PlLeX4WIHdrirGVU4pfXQ"
+    },
+    {
+      "id":22,
+      "nama_skin":"aphmau as a mermaid",
+      "skin_url":"http://novask.in/1066893481.png",
+      "view_skin":"https://lh3.googleusercontent.com/L23OBKsXK70D7FGew-Ot-SLvoW44ZwoyC9d1-R5QohHR0KX6nmnA1uJtK7j2MetN4QNAdRcoYxu8bvdgFUxwBA"
+    },
+    {
+      "id":23,
+      "nama_skin":"pink mermaid",
+      "skin_url":"http://novask.in/4092413039.png",
+      "view_skin":"https://lh3.googleusercontent.com/sndpHLlpWxKPXw1e0_YtrmZFnuY7Wsprvz0x6PoQ2Kqu91iVNQh5hAhsaS9YU-kTpyQCUfs5e7dFvU4Gem9LFNI"
+    },
+
+    {
+      "id":24,
+      "nama_skin":"Mermaid Girl",
+      "skin_url":"http://novask.in/4056903348.png",
+      "view_skin":"https://lh3.googleusercontent.com/S2d3Mo54IH63gp-njq1hkgQiviCvCeFmBCOhRKVMBTHKiIQwzRGyEz_Kbs6dGILaxeJfki9FmCQZmPmDJzg"
+    },
+    {
+      "id":25,
+      "nama_skin":"Merisa the mermaid",
+      "skin_url":"http://novask.in/4085413046.png",
+      "view_skin":"https://lh3.googleusercontent.com/Y7AmIH8fSg6G9RMYahpgiZa8EsUXnobdn8LUmBNc3VhPszcufTNsK1o3QHGkuukYENGp83oqjZKFKM3cUc_3Dg"
+    },
+    {
+      "id":26,
+      "nama_skin":"Vixen Mermaid New 3rd Without Crown Butt",
+      "skin_url":"http://novask.in/1663653403.png",
+      "view_skin":"https://lh3.googleusercontent.com/fHzD2l32qQuEbYQUQvrT9HALujAWiHhsrog3sPTdOjru0OCQFKoIjDMI1SLRZxUldipsBsOl4IYAMCmbEd2O3A"
+    },
+
+
+    {
+      "id":27,
+      "nama_skin":"alpha mermaid",
+      "skin_url":"http://novask.in/2855113031.png",
+      "view_skin":"https://lh3.googleusercontent.com/FfqfGsFdnBX3GywHvxmTdZLrkv5Y6VYaHcXWxiyghr10AsTmH98jJXEt6jnv8f-ZEJZyz_WzKgkkRUKPknHMWw"
+    },
+    {
+      "id":28,
+      "nama_skin":"Mermaid Queen",
+      "skin_url":"http://novask.in/2865643061.png",
+      "view_skin":"https://lh3.googleusercontent.com/FDucl29OVyQ1KW5y1yHSwBpqcl-5vbmXcmwBTdGhO8-6iMr1WDTTl129gYawTcn0MgtablR1RkNPmDisB6q5VQ"
+    },
+    {
+      "id":29,
+      "nama_skin":"Ariel (the little mermaid)",
+      "skin_url":"http://novask.in/1459183169.png",
+      "view_skin":"https://lh3.googleusercontent.com/j1jNMF4Y8GCAP9VAeys17DtnVgbvlisrkH86OTvoho7ZMXMlLmvEiL-QKcgvzrUY9FlAkmaaLIHDDsObPonokF0"
+    },
+
+    {
+      "id":30,
+      "nama_skin":"MY NEW MERMAID SKIN",
+      "skin_url":"http://novask.in/1595823099.png",
+      "view_skin":"https://lh3.googleusercontent.com/kpsA5AuFyFb-mZ2P4_W6fyL-0mlTbqPq4h-XfGN9laIIRKotnu20ayh-v52MFTrpBg3mgN6uvMOIwEiIpX6q1fA"
+    },
+    {
+      "id":31,
+      "nama_skin":"Little Kelly Mermaid 2",
+      "skin_url":"http://novask.in/4872592718823424.png",
+      "view_skin":"https://lh3.googleusercontent.com/1VndGYTB2DPjjzuZzG5gxpYUCn5LZd6Cl0khpPKvprBVS8uo4-H8s5gD8KUxaUeIrOTANveezmgxbKC8tiLA"
+    },
+    {
+      "id":32,
+      "nama_skin":"Swim Suit girl",
+      "skin_url":"http://novask.in/5816228458004480.png",
+      "view_skin":"https://lh3.googleusercontent.com/pOWm0K7WVG2K4IliFvarqXi4lwN3-nH08XmjCI5sEQs81x8e7HwRwdUs-FfyANrBlcc2mX2ETZJBlRKFTccl0Q"
     }
   ],
   "Addons":
