@@ -262,6 +262,153 @@
       "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
       "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
       "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Alien Invasion map for Minecraft PE 0.16.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/alien-invasion.605d227de07b.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-10/1477742258_alien-invasion-spaceships.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/AlienInvasionmapforMinecraftPE.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Bank Robbery map for Minecraft PE 0.16.2",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/bank-robbery.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-11/1480434166_bank-robbery-puzzle.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/BankRobberymap.html"
+    },
+	{
+      "id":4,
+      "nama_map":"Halloween map for Minecraft PE 0.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/house-of-horrors.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-11/1478614879_horror-house-screenshot.jpg",
+      "des_map":"hhttp://danie.alienhosted.com/mapsminecraft/Halloweenmap.html"
+    },
+	{
+      "id":5,
+      "nama_map":"Blood Evening horror map for Minecraft PE 1.0.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/blood-evening.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-12/1481028839_blood-evening-horror-map.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/BloodEveninghorrormap.html"
+    },
+	{
+      "id":6,
+      "nama_map":"Last day on Earth map for Minecraft PE 1.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/last-day-on-earth-legacy-version-31052020.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-11/1509884028_last-day-on-earth-map-1.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/LastdayonEarthmap.html"
+    },
+	{
+      "id":7,
+      "nama_map":"Marine Explorer map for Minecraft PE 1.16.20",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/marine-biologist-roleplay.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2020-08/1598188203_marine-explorer-2.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MarineExplorermap.html"
+    },
+	{
+      "id":8,
+      "nama_map":"Mario Galaxy map for Minecraft PE 1.0.4",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mario-64-full-map.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-03/1489495527_mario-galaxy-minecraft-pe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MarioGalaxymap.html"
+    },
+	{
+      "id":9,
+      "nama_map":"Mechanics Apocalypse map for Minecraft PE 1.1.4",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-07/1501082307_mechanics-apocalypse-map.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MechanicsApocalypsemap.html"
+    },
+	{
+      "id":10,
+      "nama_map":"Mechanical Apocalypse 2 map for Minecraft PE 1.1.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-06/1496656391_mechanical-apocalypse-map-pe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MechanicalApocalypse2map.html"
+    },
+	{
+      "id":11,
+      "nama_map":"Mechanics Apocalypse 3 for Minecraft PE 1.1.5",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-3.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-08/1502177087_mechanics-apocalypse-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MechanicsApocalypse3.html"
+    },
+	{
+      "id":12,
+      "nama_map":"Radiator Springs map for Minecraft PE 1.0.8",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/carsland-ported.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-05/1494682985_lightning-mcqueen-in-minecraft.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/RadiatorSpringsmap.html"
+    },
+	{
+      "id":13,
+      "nama_map":"Realm of Beturune map for Minecraft PE 1.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2020-06/1593541429_beturune-realm-2.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.html"
+    },
+	{
+      "id":14,
+      "nama_map":"Saving Santa map for Minecraft PE 1.0.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/SavingSantamap.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-12/1482429450_santa-claus-in-minecraft.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/SavingSantamap.html"
+    },
+	{
+      "id":15,
+      "nama_map":"Subnautica map for Minecraft PE 1.14.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/subnautica.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2019-12/1576869666_subnautica-map-2.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/Subnauticamap.html"
+    },
+	{
+      "id":16,
+      "nama_map":"The Building of Villager map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/the-building-of-villager.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441264871_villager.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheBuildingofVillagermap.html"
+    },
+	{
+      "id":17,
+      "nama_map":"The Fall of Heaven map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/the-fall-of-heaven-by-lordguntaz-smashpe-1.0.0.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474623665_the-fall-of-heaven-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheFallofHeavenmap.html"
+    },
+	{
+      "id":18,
+      "nama_map":"The Legend of Zelda map for Minecraft PE 1.0.3",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/link-to-the-pastmapa.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-03/1488899772_link-legend-of-zelda-in-mcpe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheLegendofZeldamap.html"
+    },
+	{
+      "id":19,
+      "nama_map":"The Walking Dead map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/twd-bean.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheWalkingDeadmap.html"
+    },
+	{
+      "id":20,
+      "nama_map":"Turok Dimension map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/turok-bundle-update-1.2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-10/1476367536_turok-dimension-map-pe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TurokDimensionmap.html"
+    },
+	{
+      "id":21,
+      "nama_map":"VerseCrafter: The Beginning map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/versecrafter-the-beginning-update-4.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/VerseCrafterTheBeginningmap.html"
+    },
+	{
+      "id":22,
+      "nama_map":"Visions of Time",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/v.ot-map-v0.2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474617264_visions-of-time-1.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/VisionsofTime.html"
     }
   ]}
   ]
