@@ -324,7 +324,252 @@
       "addR_url":"http://danie.alienhosted.com/addon/x-ray-R.mcpack",
       "view_add":"https://fmcpe.com/uploads/posts/2016-10/1477742312_alien-invasion-map-addon.jpg",
       "des_add":"http://danie.alienhosted.com/addon/x-ray.html"
+    },
+	  {
+      "id":1,
+      "nama_add":"Among Us [Add-on + Skins 4D]",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/amongus.zip",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/amongus.zip",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/amongus.zip",
+      "view_add":"https://my.mcpedl.com/storage/worlds/9692/images/mcbe-among-us_11.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/among2.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Wither Storm Add-on",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/witherstorm.zip",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/witherstorm.zip",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/witherstorm.zip",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2016/11/wither-storm-5.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/witherstorm.html"
+    },
+    {
+      "id":3,
+      "nama_add":"Minecraft: Dungeons Concept Addon",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/dungeonmap.zip",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/dungeonmap.zip",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/dungeonmap.zip",
+      "view_add":"https://my.mcpedl.com/storage/addons/3972/images/minecraft-dungeons-replicas-addon-beta_2.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/dungeonaddon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Among Us Texture Pack Addon",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/amongus.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/amongus.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/amongus.mcpack",
+      "view_add":"http://mcpe-play.com/uploads/posts/2020-09/medium/1600174395_among-us-addon-skins-4d_5.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/amongustexture.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Viernes 13 El Juego (Friday The 13th The Game) (Horror)",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/fridat.mcworld",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/fridat.mcworld",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/fridat.mcworld",
+      "view_add":"https://my.mcpedl.com/storage/worlds/9321/images/d3e6969f8d84a62f50663443fd0748c7.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/fridat.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Ant Man Boss Addon",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/ant-man-1-3.mcaddon",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/ant-man-1-3.mcaddon",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/ant-man-1-3.mcaddon",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2017/03/ant-man-boss-2.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/antman.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Lucky Block Race",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/lucky-islands-v-2.mcworld",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/lucky-islands-v-2.mcworld",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/lucky-islands-v-2.mcworld",
+      "view_add":"https://my.mcpedl.com/storage/worlds/9430/images/rainbow-lucky-block-race_11.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/luckypelangi.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Dragon Mounts Addon Beta",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/dragon-mounts-beta-add-on.mcaddon",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/dragon-mounts-beta-add-on.mcaddon",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/dragon-mounts-beta-add-on.mcaddon",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2018/10/dragons-addon-5-e1538599536517.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/dragonmod.html"
+    },
+    {
+      "id":9,
+      "nama_add":"FURNICRAFT 3D BLOCK (Beta Only)",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/furnicraft-11-5-behavior.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/furnicraft-11-5-behavior.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/furnicraft-11-5-behavior.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/134/images/furnicraft-addon_16.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/furnicraft.html"
+    },
+    {
+      "id":10,
+      "nama_add":"The Ultimate Jeep Addon",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/jeeps-behavior.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/jeeps-behavior.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/jeeps-behavior.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/5134/images/the-ultimate-jeep-addon_3.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/jeep.html"
     }
+    ,
+    {
+      "id":11,
+      "nama_add":"Laser Gun Addon",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/laser-gun-lite.mcaddon",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/laser-gun-lite.mcaddon",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/laser-gun-lite.mcaddon",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2018/04/laser-gun-2-2.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/lasergun.html"
+    },
+    {
+      "id":12,
+      "nama_add":"lucky-islands-v-2",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/lucky-islands-v-2.mcworld",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/lucky-islands-v-2.mcworld",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/lucky-islands-v-2.mcworld",
+      "view_add":"https://my.mcpedl.com/storage/worlds/1759/images/lucky-islands_3.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/luckyv2.html"
+    },
+    {
+      "id":13,
+      "nama_add":"Astral Lucky Block Addon v2",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/luckyblocksracev7-4-6.mcworld",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/luckyblocksracev7-4-6.mcworld",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/luckyblocksracev7-4-6.mcworld",
+      "view_add":"https://my.mcpedl.com/storage/addons/4842/images/astral-lucky-blocks_6.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/lukiblok.html"
+    },
+    {
+      "id":14,
+      "nama_add":"Lucky Scraper Miny City Addon mcpack",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/skyscraper-city-update-8.mcworld",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/skyscraper-city-update-8.mcworld",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/skyscraper-city-update-8.mcworld",
+      "view_add":"https://my.mcpedl.com/storage/worlds/2165/images/mine-york-city_3.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/kotamodern.html"
+    },
+    {
+      "id":15,
+      "nama_add":"Lamborghini Veneno Add-on",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/sports-car-lamborghini-veneno-resourses-pack.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/sports-car-lamborghini-veneno-resourses-pack.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/sports-car-lamborghini-veneno-resourses-pack.mcpack",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2017/02/lamborghini-veneno-7.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/lambo.html"
+    },
+    {
+      "id":16,
+      "nama_add":"Un Lucky Block Addon - 7",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/unluckyblocksracev1-3-7.mcworld",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/unluckyblocksracev1-3-7.mcworld",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/unluckyblocksracev1-3-7.mcworld",
+      "view_add":"https://my.mcpedl.com/storage/texturepacks/3940/images/comix-redux--by-dfergxx_5.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/unluki.html"
+    },
+    {
+      "id":17,
+      "nama_add":"villagertotem.mcpack",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/villagertotem.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/villagertotem.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/villagertotem.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/texturepacks/2629/images/villagertotem_3.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/vergoten.html"
+    },
+    {
+      "id":18,
+      "nama_add":"Vinny’s Skin Pack (Beta Only)",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/vinnys-skin-pack-v2.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/vinnys-skin-pack-v2.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/vinnys-skin-pack-v2.mcpack",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2017/11/vinnysskinpack-2.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/vinny.html"
+    },
+    {
+      "id":19,
+      "nama_add":"Among Us [Add-on + Skins 4D] (BETA 1.16.100.60)",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/Among Us RP.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/AmongUs BP.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/",
+      "view_add":"https://my.mcpedl.com/storage/worlds/10049/images/among-us-parkour-map_4.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/among2.html"
+    },
+    {
+      "id":20,
+      "nama_add":"Snowman Addon (1.8+)",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/Snowman AddonB (1).mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/Snowman AddonR.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/Snowman AddonR.mcpack",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2018/12/snowman-addon-5.jpg",
+      "des_add":"http://reyin.xyz/koplo/desaddon/snowman.html"
+    },
+    {
+      "id":21,
+      "nama_add":"Jurrasic Park Addon",
+      "add_url":"http://reyin.xyz/koplo/addonpancar/Jurassic Addon Public Beta_behavior_pack.mcpack",
+      "addB_url":"http://reyin.xyz/koplo/addonpancar/Jurassic Addon Public Beta_resource_pack.mcpack",
+      "addR_url":"http://reyin.xyz/koplo/addonpancar/Jurassic Addon Public Beta_resource_pack.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/6096/images/permian-expansion-pe_9.png",
+      "des_add":"http://reyin.xyz/koplo/desaddon/dino.html"
+    },
+    {
+      "id":22,
+      "nama_add":"Nothing is back",
+      "add_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/Notch Is Back 2_1_resource_pack.mcpack",
+      "addB_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/Notch Is Back 2_1_behavior_pack.mcpack",
+      "addR_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/Notch Is Back 2_1_resource_pack.mcpack",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2020/10/notch-is-back-pocket-edition_1-520x245.png",
+      "des_add":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addonhtml/22.html"
+    },
+    {
+      "id":23,
+      "nama_add":"Warden Concept Add-On",
+      "add_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/WardenB.mcpack",
+      "addB_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/WardenB.mcpack",
+      "addR_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/WardenR.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/5650/images/warden-concept-addon_4.png",
+      "des_add":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addonhtml/23.html"
+    },
+    {
+      "id":24,
+      "nama_add":"Squeeb’s Simple Lightsabers",
+      "add_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/Squeebs-Behavior-Pack_1603088193.mcpack",
+      "addB_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/Squeebs-Behavior-Pack_1603088193.mcpack",
+      "addR_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/Squeebs-Resource-Pack_1603088194.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/5734/images/goat-concept-replicas_2.png",
+      "des_add":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addonhtml/24.html"
+    },
+    {
+      "id":25,
+      "nama_add":"Shin Godzilla Add-on",
+      "add_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/ShinBE.mcpack",
+      "addB_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/ShinBE.mcpack",
+      "addR_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/ShinRE.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/5914/images/godzilla-the-king-of-the-monsters-addon_2.png",
+      "des_add":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addonhtml/25.html"
+    },
+    {
+      "id":26,
+      "nama_add":"Cartoon Cat Add-On",
+      "add_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/",
+      "addB_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/",
+      "addR_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/",
+      "view_add":"https://my.mcpedl.com/storage/texturepacks/3771/images/monster-indicator--easily-spot-hostile-mobs_3.png",
+      "des_add":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addonhtml/26.html"
+    },
+    {
+      "id":27,
+      "nama_add":"Pterodactyl and Velociraptor",
+      "add_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/behavior.mcpack",
+      "addB_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/behavior.mcpack",
+      "addR_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addon/behavior.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/2565/images/velociraptor-addon_2.png",
+      "des_add":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/addonhtml/27.html"
+    }
+    
   ],
   "Maps":
   [
@@ -481,6 +726,288 @@
       "map_url":"http://danie.alienhosted.com/mapsminecraft/v.ot-map-v0.2.zip",
       "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474617264_visions-of-time-1.jpg",
       "des_map":"http://danie.alienhosted.com/mapsminecraft/VisionsofTime.html"
+    },
+	  {
+       "id":1,
+      "nama_map":"AMONG CRAFT (Update)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/IiSAX0UjRQA.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10134/images/among-us-craft_7.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/1map.html"
+    },
+    {
+       "id":2,
+      "nama_map":"Modern Mansion [Creation]",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/modernmansion.mcworld",
+      "view_map":"https://mcpedl.com/wp-content/uploads/2016/04/modern-mansion-8.jpg",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/2.html"
+    },
+    {
+      "id":3,
+     "nama_map":"Super Mansion [Redstone]",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/super-mansion-mcworld.mcworld",
+      "view_map":"https://mcpedl.com/wp-content/uploads/2016/07/super-mansion-7.jpg",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/3.html"
+    },
+    {
+      "id":4,
+    "nama_map":"Jurassic Craft World [Creation] (Map!)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/jurassicworld.mcworld",
+      "view_map":"https://mcpedl.com/wp-content/uploads/2017/02/jurassic-world-map-2.jpg",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/4.html"
+    },
+    {
+      "id":5,
+    "nama_map":"Lucky Block Race [Minigame] (Addon!)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Lucky Block Race.mcworld",
+      "view_map":"https://mcpedl.com/wp-content/uploads/2017/01/lucky-block-race-3-1.jpg",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/5.html"
+    },
+    {
+     "id":6,
+      "nama_map":"Joshua’s Survival Starter Map!",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/Starter_Suvival.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10069/images/joshuas-survival-starter-map_5.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/6.html"
+    },
+    {
+      "id":7,
+      "nama_map":"Shrek Addon (BETA)/mcaddon",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/shrek.mcaddon",
+      "view_map":"https://my.mcpedl.com/storage/addons/2270/images/shrek-addon-for-minecraft-pe-beta_4.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/7.html"
+    },
+    {
+      "id":8,
+     "nama_map":"Mushroom Caves Survival Map",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Mushroom caves Minecraft BE 1.16.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10108/images/mushroom-caves-survival-map-20002562000_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/8.html"
+    },
+    {
+      "id":9,
+    "nama_map":"Blazer Land Theme Park Map",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/eryfX6xeAwA.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10057/images/blazer-land-theme-park_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/9.html"
+    },
+    {
+      "id":10,
+    "nama_map":"Modified Desert Village |Creation|",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Desert Village.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/4927/images/modified-desert-village-creation_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/10.html"
+    },
+    {
+     "id":11,
+      "nama_map":"Starwars Hoth Base",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/Starwars Hoth Base(2).mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9987/images/starwars-hoth-base_6.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/11.html"
+    },
+    {
+      "id":12,
+      "nama_map":"TheBMG Playz’s Nether Hub Creation",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Nether-Hub-by-TheBMG-Playz_1605609701.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10019/images/thebmg-playzs-nether-hub-creation_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/12.html"
+    },
+    {
+      "id":13,
+     "nama_map":"Medieval Castle Den of Knights",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Happy-Holloween.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9657/images/medieval-castle-den-of-knights_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/13.html"
+    },
+    {
+      "id":14,
+    "nama_map":"Plants vs Zombies 2 Map + Addon Major BUG FIXES",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/PVZ2 Map 1.8.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/7006/images/plants-vs-zombies-2-mapaddon-bug-fixes_4.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/14.html"
+    },
+    {
+      "id":15,
+    "nama_map":"Primary Lab ( Map)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Primary_lab.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9230/images/primary-lab_7.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/15.html"
+    },
+    {
+      "id":16,
+      "nama_map":"All Among Us Maps",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Among-Us.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9969/images/all-among-us-maps_5.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/16.html"
+    },
+    {
+      "id":17,
+      "nama_map":"WDW (2021) Maps",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/WDW 2021.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9872/images/wdw-1971--2021-maps_4.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/17.html"
+    },
+    {
+      "id":18,
+     "nama_map":"Spike Temple Map",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/spike_temple.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9657/images/medieval-castle-den-of-knights_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/18.html"
+    },
+    {
+      "id":19,
+    "nama_map":"Find the Button (Short)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Find-the-Button-map.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9963/images/find-the-button-short_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/19.html"
+    },
+    {
+      "id":20,
+    "nama_map":"Parkour Master- + Winter Update",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/§l§6Park§eour §cMaster.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/6867/images/parkour-master-autumn-update_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/20.html"
+    },
+    {
+     "id":21,
+      "nama_map":"Find The Button BIOMES!",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Find-the-button_1605196935.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/6951/images/sky-block-new-big-update_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/21.html"
+    },
+    {
+      "id":22,
+      "nama_map":"Mining Simulator (Halloween)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Mining_simulator.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9048/images/mining-simulator-halloween_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/22.html"
+    },
+    {
+      "id":23,
+     "nama_map":"Creepy Mansion Haunted House",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Spooky mansion.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9886/images/creepy-mansion-haunted-house_4.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/23.html"
+    },
+    {
+      "id":24,
+    "nama_map":"Tower Defense Simulator in Minecraft",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/TDS-in-Minecraft.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9866/images/tower-defense-simulator-in-minecraft_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/24.html"
+    },
+    {
+      "id":25,
+    "nama_map":"Super Smash Craft: Magic",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/SuperSmashCraftMagic_1604884842.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9864/images/super-smash-craft-magic_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/25.html"
+    },
+    {
+       "id":26,
+      "nama_map":"Pokemon X and Y – The Tower of Mastery [Creation]",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/The-Tower-of-Mastery_1604796559.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9809/images/pokemon-x-and-y--the-tower-of-mastery-creation_5.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/26.html"
+    },
+    {
+      "id":27,
+      "nama_map":"The Warehouse",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/The Warehouse 1.3 Update.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9702/images/the-warehouse_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/27.html"
+    },
+    {
+      "id":28,
+     "nama_map":"The Floor is Lava [Parkour]",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/The-Floor-is-Lava_1604797937.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/7996/images/the-floor-is-lava_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/28.html"
+    },
+    {
+      "id":29,
+    "nama_map":"I Have To Leave [BUG FIXES]",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/I-Have-To-Leave-BUG-FIXES.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9669/images/i-have-to-leave_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/29.html"
+    },
+    {
+      "id":30,
+    "nama_map":"Nintendo Switch House",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/D-GeX2p8AAA.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/9741/images/nintendo-switch-house_8.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/30.html"
+     },
+     
+     {
+      "id":31,
+      "nama_map":"Marvis City 2.0",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Marvis-City-1.0_1603317839.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/8333/images/marvis-city-20_28.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/31.html"
+    },
+    {
+      "id":32,
+      "nama_map":"CrowinCrow Prison Escape",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/PRISON-ESCAPE-by-CrowinCrow_1606206719.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/6791/images/crowincrow-prison-escape_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/32.html"
+    },
+    {
+      "id":33,
+     "nama_map":"30x30x30 Redstone Computer!",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/The-C-U-B-E_1606073554.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10125/images/30x30x30-redstone-computer_4.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/33.html"
+    },
+    {
+      "id":34,
+    "nama_map":"BDYT Skyblock",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/BDYT Skyblock.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10149/images/bdyt-skyblock_5.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/34.html"
+    },
+    {
+      "id":35,
+    "nama_map":"Survival Civilisation World (New Structures!)",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Survivation civilisation.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/7552/images/survival-civilisation-world_3.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/35.html"
+    },
+     
+     {
+      "id":36,
+      "nama_map":"GRC Studio Presents: Modern House 2.0",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Modern House.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10576/images/grc-studio-presents-modern-house-20_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/36.html"
+    },
+    {
+      "id":37,
+      "nama_map":"Geolaws’s Survival Games | Zombie Apocalypse Addition – V1.0",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/§l§3Geolawss §6Survival Games.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10542/images/geolawss-survival-games--zombie-apocalypse-addition--v10_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/37.html"
+    },
+    {
+      "id":38,
+     "nama_map":"Beautiful Mansion",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Mansion 1.16.101.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10552/images/beautiful-mansion-116101-mansion-with-commands_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/38.html"
+    },
+    {
+      "id":39,
+    "nama_map":"Hillside House",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/hillside-house.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/10541/images/hillside-house_4.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/39.html"
+    },
+    {
+      "id":40,
+    "nama_map":"Advance Skyblock",
+      "map_url":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/map/Advance-skyblock-2.8.mcworld",
+      "view_map":"https://my.mcpedl.com/storage/worlds/2362/images/advance-skyblock_2.png",
+      "des_map":"https://erlanggabalakosa.xyz/erlanggabalakosa.xyz/addon/maphtml/40.html"
     }
   ]}
   ]
